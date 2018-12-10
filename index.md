@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/etodavezquevoce/8c-st3/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<html>
+	<head>
+<Title>DICAS PARA ULTRAPASSAR OS 13 PONTOS</Title>
+	<style type="text/css">
 
-### Markdown
+	*{text-transform:uppercase;font-family:Times,serif;font-size:47px;font-weight:normal}
+	.body{margin-top:37px;width:800px;border:1px solid black;background:#fff2cc}
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  }
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/etodavezquevoce/8c-st3/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+}
+  
+		</style>
+	</head>
+		<body bgcolor="#222">
+<center><div class="body">
+		  <h1 style="text-align:center">esse método está<br>
+		dando o que falar<br> em
+		   todo o brasil </h1>
+		  <img class="image" style="width:90%;height:55%" src="https://brasilmanchete.com/imagens/1712.png"><br>	
+		<h2 style="font-family:'Impact',serif;text-transform:none">O método que estava guardado durante<br>
+		  anos foi revelado, e isso está causando<br>
+		  um sucesso estrondoso...Pessoas no<br>
+		  brasil inteiro estão
+          <mark><span style="font-family:'Impact',serif">GANHANDO</span></mark>
+desde que<br>
+começaram a seguir este método incrível,
+<MARK><SPAN style="font-family:'Impact',serif"> Veja abaixo:</h2></mark>
+			</div>	<div class="body">
+		<br>
+		<h2 style="font-family:'Impact',serif;text-align:right;margin-right:20px"> o começo</h2>
+		<h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Semana passada a revista “Segredos da mente” fez uma entrevista com Luís Flores, o criador do método “Vencendo na LotoFácil”</h3>
+		<h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Onde Luís afirmava que poderia estar em risco por mostrar esse segredo e que o método havia beneficiado milhares de pessoas no passado. </h3>
+		<h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Muitas pessoas até então duvidaram de todas as formas possíveis, algumas apenas porque não queriam acreditar.</h3>
+		<h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Mas algo peculiar aconteceu quando a lista de ganhadores do concurso 1712 liberado dia 17/09/2018 apareceu em todos os lugares. Saíram 14 ganhadores com os sonhados “15 pontos”. </h3>
+		<h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Poderia essa ser uma grande coincidência? Sr Flores disse que não... que ele mesmo recebeu alguns depoimentos de 11 a 15 pontos que o chamaram agradecendo, como:		</h3>
+<br>
+</div>
+		  <div class="body"> <br>
+		    <p><img src="https://brasilmanchete.com/imagens/pfd/dep2.png" width="309" height="710">&nbsp;</p>
+<img src="https://brasilmanchete.com/imagens/pfd/dep1.png" width="440" height="50"> <br>
+<p><img src="https://brasilmanchete.com/imagens/pfd/dep5.png" width="363" height="138">&nbsp;</p>
+<p><img src="https://brasilmanchete.com/imagens/pfd/dep3.png" width="412" height="52">&nbsp;</p>
+<p><img src="https://brasilmanchete.com/imagens/pfd/dep4.png" width="392" height="60"></p>
+</div>
+<div class="body">
+  <h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Luís disse para nós que estava feliz de ver essas pessoas realizando seus sonhos, e ao mesmo tempo estava assustado, pois algumas figuras públicas que ele preferiu não citar nomes, exigiram que ele tirasse o método do ar. </h3>
+  <h3 style="font-size:37px;TEXT-TRANSFORM:NONE"> “Tudo bem, o fato de eles estarem ganhando me enche de alegria, porém não posso manter isso por mais muito tempo, as pessoas têm que se apressar, ou jamais conseguirão adquiri-lo”</h3>
+<h3 style="font-size:37px;TEXT-TRANSFORM:NONE;text-align:right"> -Luís Flores </h3>
+<h3 style="font-size:37px;TEXT-TRANSFORM:NONE"> Isso nos fez entender que logo, o Luís deixará de vender as cópias do produto, e consequentemente de dar suporte para as pessoas que não o adquiriram o número de vencedores está crescendo, e isso pode se tornar uma bola de neve. </h3>
+<MARK><SPAN style="font-size: 37px;text-transform:none"> E você já adquiriu sua cópia? </h2></mark>
+<h3 style="font-size:37px;TEXT-TRANSFORM:NONE"> Bom, se ainda não adquiriu é melhor se apressar... <br>Parece que esse´método está com seus dias contados </h3>
+<h3 style="font-size:37px;TEXT-TRANSFORM:NONE">Clique no Vídeo Abaixo Onde o Próprio Luís Revela DETALHADAMENTE a experiência que mudou sua vida para sempre... </h3>
+<center>
+			    <a target="_blank" href="http://gtxflores.online/mobile-2/?utm_source=Facebook%7CPDF3Vid%7Cbutton"><img class="image" style="width:97%;height:21%" src="http://brasilmanchete.com/imagens/botao.png?id=4"><a>
+    </center>
+			  <br>
+			  <iframe style=" width: 90% !important; height: 41.8% !important;" src="https://www.youtube-nocookie.com/embed/QIE2Pr7G_mw?wmode=opaque&showinfo=0&autoplay=1&controls=0&modestbranding=1&rel=0&start=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+			  <br>
+			  <br>
+			  <center>
+			    <a target="_blank" href="http://mon.net.br/4dcnl?src=Facebook|PDF3Vid|gifbutton"><img class="image" style="width:97%;height:23%" src="http://brasilmanchete.com/imagens/teste2.gif"><a>
+		      </center>
+			  <br>
+  </div>
+		</center>
+		</body>
+</html>
